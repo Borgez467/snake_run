@@ -41,7 +41,7 @@ canvas {
     border: 5px solid #fffafa;
 
 
-    background-image: url(./assents/miles.jpg);
+    background-image: url(../assents/miles.jpg);
     background-size: cover;
     /* Para cobrir toda a área */
     background-position: center;
